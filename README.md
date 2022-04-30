@@ -7,4 +7,4 @@ Here we focus on the approach proposed by Newell et al. [5], called the stacked-
 several times across the network to capture the local features and their positioning in the global context. Our goal is to modify the stacked-hourglass network (with two hour-glasses) and reduced the total number of parameters and improve the accuracy of the model.
 
 ## Architecture of a single hourglass
-![image](https://user-images.githubusercontent.com/99881055/166109645-586e3830-3ee8-4a40-8c4d-3d1a31c24755.png)
+![image](https://user-images.githubusercontent.com/99881055/166109645-586e3830-3ee8-4a40-8c4d-3d1a31c24755.png =100x20)

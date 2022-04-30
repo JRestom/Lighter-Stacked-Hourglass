@@ -11,5 +11,7 @@ several times across the network to capture the local features and their positio
 
 ## Results
 
-<img src="https://user-images.githubusercontent.com/99881055/166109933-d365040f-1795-4564-9e13-42a2c450b961.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="250" />
+<img src="https://user-images.githubusercontent.com/99881055/166109933-d365040f-1795-4564-9e13-42a2c450b961.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="550" height="200" />
+
+*For more detailed information read tecnical report
 
